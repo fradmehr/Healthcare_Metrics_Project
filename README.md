@@ -4,7 +4,7 @@ Below is step by step process to run the pipeline:
 3. Upload files from S3; and run python code (3. Initial Data Analysis.ipynb) to create the visualizations.
 4. Create streamlit app code (dashboard.py)
 5. Save it in local directory and use below commands in the terminal:
-6. cd <local directory that contains the streamlit app code>
+6. cd <local_directory_that_contains_the_streamlit_app_code>
 7. Run: streamlit run dashboard.py
 8. The final streamlit url will open (4. Streamlit dashboard presentation)
 

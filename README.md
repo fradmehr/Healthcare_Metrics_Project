@@ -8,4 +8,5 @@ Below is step by step process to run the pipeline:
 7. Run: streamlit run dashboard.py
 8. The final streamlit url will open (4. Streamlit dashboard presentation)
 
-   <img width="488" height="194" alt="image" src="https://github.com/user-attachments/assets/1faf4f2d-0aa4-4de5-9a54-e85456cd9079" />
+  <img width="496" height="190" alt="image" src="https://github.com/user-attachments/assets/f598514b-3fb0-415c-91a8-d39994d57480" />
+
